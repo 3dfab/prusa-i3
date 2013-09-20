@@ -1,4 +1,6 @@
 prusa-i3
 ========
 
-archivos fuente, stl, 
+archivos fuente, stl, firmware.
+
+
